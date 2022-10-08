@@ -1,4 +1,4 @@
-package linkedlists;
+import java.util.*;
 
 public class circularlinkedlist {
 	class 	Node{
